@@ -1,5 +1,5 @@
 # HuggingfaceKorLMTutorial
-Huggingface의 transformers &amp; tokenizers를 활용한 한국어 언어모델의 pretraining &amp; finetuning tutorial 코드
+Huggingface의 transformers &amp; tokenizers를 활용한 한국어 언어모델의 pretraining &amp; finetuning tutorial
 
 
 Data for pretraining   
